@@ -2,6 +2,6 @@
 
 module Vagrant
   module Butter
-    VERSION = "0.0.2"
+    VERSION = "0.0.3.dev"
   end
 end
