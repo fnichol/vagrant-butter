@@ -15,5 +15,8 @@ Gem::Specification.new do |gem|
   gem.require_paths = ['lib']
   gem.version       = Vagrant::Butter::VERSION
 
-  gem.add_dependency "vagrant", "~> 0"
+  gem.add_dependency "vagrant", "~> 1.0.0"
+
+  gem.add_development_dependency "minitest", "~> 2.12.0"
+  gem.add_development_dependency "mocha"
 end
