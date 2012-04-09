@@ -5,13 +5,13 @@
 Using Vagrant installed from package:
 
 ```sh
-vagrant gem install vagrant-butter
+$ vagrant gem install vagrant-butter
 ```
 
 Using Vagrant installed as a gem:
 
 ```sh
-gem install vagrant-butter
+$ gem install vagrant-butter
 ```
 
 ## <a name="middleware"></a> Middleware
